@@ -1,0 +1,7 @@
+Name,Issue,Priority,Status
+Deepak,"User Authentication Failure
+Description: Users are unable to log in due to incorrect session handling. Password reset flow is not functioning properly, leading to account lockouts.
+Impact: Prevents legitimate users from accessing the system.",Medium,In Progress
+Mola stir,"User Authentication Failure
+Description: Users are unable to log in due to incorrect session handling. Password reset flow is not functioning properly, leading to account lockouts.
+Impact: Prevents legitimate users from accessing the system.",Low,Resolved
