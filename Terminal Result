@@ -1,0 +1,3 @@
+--// Below code is to run the application in local browser//--
+
+python -m streamlit run app.py
